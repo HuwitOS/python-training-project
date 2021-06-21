@@ -1,1 +1,1 @@
-# python-training-project
+# python training project
